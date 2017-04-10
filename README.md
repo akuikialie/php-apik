@@ -1,8 +1,8 @@
 <center><h1>~ PHP: Hypertext Prepocessor ~</h1></center>
 
-<!--<br />
+<br />
 ![Logo PHP](/images/PHP-logo.png "PHP Logo")
-<br /><br />-->
+<br /><br />
 
 <center>
 ~ Rangkuman Bahasa Pemrograman Berbasis Website menggunakan PHP ~
