@@ -1,11 +1,23 @@
 {
   "name": "books",
   "version": "1.0.0",
-  "description": "",
+  "description": "<center><h1>~ PHP: Hypertext Prepocessor ~</h1></center>",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node": "^0.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://akuikialie:admin123@github.com/akuikialie/php-apik.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akuikialie/php-apik/issues"
+  },
+  "homepage": "https://github.com/akuikialie/php-apik#readme"
 }
